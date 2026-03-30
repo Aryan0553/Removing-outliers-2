@@ -30,6 +30,7 @@ It visualizes CGPA and placement exam marks and applies statistical techniques l
 - Boxplot for outlier detection
 - Distribution comparison before and after outlier removal
 
+
 ## ⚙️ Outlier Detection Method
 The project uses the **IQR (Interquartile Range)** technique:
 

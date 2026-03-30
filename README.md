@@ -12,7 +12,7 @@ It visualizes CGPA and placement exam marks and applies statistical techniques l
 - Outlier handling using **Trimming and Capping**
 
 ## 🛠️ Tech Stack
-- Python  
+- Python 
 - Pandas  
 - NumPy  
 - Matplotlib  
